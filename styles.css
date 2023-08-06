@@ -8,7 +8,7 @@ body {
     
     max-width: 500px;
     margin: 100px auto;
-    background-image:url(images/background.jpg) ;
+    background-image:url(background.jpg) ;
     background-size: cover;
     background-position: center;
     background-color: #fcfcfc;
@@ -37,17 +37,17 @@ body {
   
   /* Apply background images to buttons */
   #start {
-    background-image: url('images/startbutton1.png');
+    background-image: url('startbutton1.png');
     
  
   }
   
   #pause {
-    background-image: url('images/pausebutton1.png');
+    background-image: url('pausebutton1.png');
   }
   
   #reset {
-    background-image: url('images/resetbutton1.png');
+    background-image: url('resetbutton1.png');
   }
   
   /* Add hover effect if desired */
