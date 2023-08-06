@@ -21,7 +21,7 @@ function formatTime(time) {
   return `${formattedHours}:${formattedMinutes}:${formattedSeconds}`;
 }
 
-function startStop() {
+function start() {
   if (!isRunning) {
     intervalId = setInterval(() => {
       elapsedTime++;
