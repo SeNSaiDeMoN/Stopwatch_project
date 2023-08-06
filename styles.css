@@ -1,10 +1,12 @@
+/* Fonts used from google fonts*/
 body {
   font-family: 'Courgette', cursive; 
   
     text-align: center;
   }
   
-  .stopwatch-container {
+  /* Style the stopwatch container */
+.stopwatch-container {
     
     max-width: 500px;
     margin: 100px auto;
@@ -35,8 +37,9 @@ body {
     background-size: contain;
   }
   
-  /* Apply background images to buttons */
-  #start {
+  /* Apply background images to all buttons */
+ 
+#start {
     background-image: url('startbutton1.png');
     
  
